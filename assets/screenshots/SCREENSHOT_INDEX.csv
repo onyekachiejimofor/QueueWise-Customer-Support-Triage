@@ -1,0 +1,18 @@
+file,caption,source_screenshot,redaction
+01_project_overview.png,Workspace overview,Screenshot 2026-10-28 123810.png,No content redaction
+02_initial_labeling_table.png,Labeling data table,Screenshot 2026-10-28 123649.png,No content redaction
+03_completion_240_of_240.png,240 of 240 completed,Screenshot 2026-10-28 123744.png,No content redaction
+04_duplicate_payment_billing.png,Duplicate debit → Billing & Payment,Screenshot 2026-10-28 123918.png,Account identifier tab covered
+05_account_verification_access.png,Email verification → Account Access,Screenshot 2026-10-28 123944.png,Account identifier tab covered
+06_mobile_page_technical.png,Mobile-only page failure → Technical Issue,Screenshot 2026-10-28 124007.png,Account identifier tab covered
+07_coffee_maker_defect.png,Leaking coffee maker → Product Defect,Screenshot 2026-10-28 124023.png,Account identifier tab covered
+08_explicit_refund_vs_defect.png,Explicit refund overrides defect,Screenshot 2026-10-28 132817.png,Account identifier tab covered
+09_account_blocker_vs_cancel.png,Account blocker before cancellation,Screenshot 2026-10-28 132906.png,Account identifier tab covered
+10_invoice_charge_vs_delivery.png,Invoice correction despite delivery context,Screenshot 2026-10-28 133113.png,Account identifier tab covered
+11_prepurchase_return_policy.png,Pre-purchase returns policy,Screenshot 2026-10-28 133152.png,Account identifier tab covered
+12_unresponsive_cancel_button.png,Unresponsive cancellation button,Screenshot 2026-10-28 133249.png,Account identifier tab covered
+13_tracking_status_vs_web_error.png,Requested status despite website error,Screenshot 2026-10-28 133337.png,Account identifier tab covered
+14_approved_refund_vs_double_billing.png,Approved refund despite double billing,Screenshot 2026-10-28 133420.png,Account identifier tab covered
+15_nonprofit_subscription_pricing.png,General pricing inquiry,Screenshot 2026-10-28 133501.png,Account identifier tab covered
+16_broken_shipping_dashboard.png,Broken dashboard vs tracking,Screenshot 2026-10-28 133613.png,Account identifier tab covered
+17_warranty_info_without_defect.png,Warranty coverage without reported defect,Screenshot 2026-10-28 133704.png,Account identifier tab covered

@@ -1,0 +1,241 @@
+﻿task_id,text,reference_label,difficulty,routing_team,rationale
+SUP-0001,The card was charged twice for the same order; can you reverse one payment?,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0002,Hello support team — Are gift cards available for corporate customers?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0003,Hello support team — I accidentally returned the wrong size; can you update my return request?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0004,"Hello support team — The courier marked this delivered, but nothing is at my door.",Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0005,Hello support team — Why did the package return to sender without a delivery attempt?,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0006,I bought the subscription box last month and this month’s parcel is late.,Delivery & Tracking,Boundary / multi-intent,Logistics Support,Route by the explicit immediate action requested; Logistics Support owns the next action.
+SUP-0007,The cancellation button is missing from my plan settings.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0008,Hello support team — The CSV download contains headers but no records.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0009,Hello support team — I returned the shoes last week and need to know when the refund will arrive.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0010,"The headphones are defective; I am not asking for troubleshooting, I want a refund.",Refund & Return,Boundary / multi-intent,Returns Desk,Route by the explicit immediate action requested; Returns Desk owns the next action.
+SUP-0011,The search filter does not return matching items.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0012,What time does the customer service team open on Saturdays?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0013,The dashboard is blank after the latest update.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0014,Your refund page is fine; I am contacting you about an unfamiliar charge.,Billing & Payment,Boundary / multi-intent,Billing Operations,Route by the explicit immediate action requested; Billing Operations owns the next action.
+SUP-0015,I cannot accept the email verification invitation.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0016,Do you ship to university accommodation addresses?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0017,I cannot cancel because I am locked out of the account; help me sign in first.,Account Access,Boundary / multi-intent,Identity Support,Route by the explicit immediate action requested; Identity Support owns the next action.
+SUP-0018,Hello support team — The product page loads on desktop but not on my phone.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0019,I cannot update the email address linked to my profile.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0020,Can you explain why the monthly invoice is higher than the agreed plan?,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0021,My headphones arrived with a broken hinge.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0022,The login screen keeps saying my account does not exist.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0023,Login works now. Please turn off automatic renewal for my plan.,Subscription & Cancellation,Boundary / multi-intent,Retention / Subscriptions,Route by the explicit immediate action requested; Retention / Subscriptions owns the next action.
+SUP-0024,The website shows the wrong totals after I apply a filter.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0025,I want the money back rather than a replacement for this damaged item.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0026,Hello support team — The parcel arrived at the city hub but has not been delivered.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0027,Hello support team — The save changes button spins and never confirms success.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0028,Our office has closed and we need to end our five-seat subscription.,Subscription & Cancellation,Boundary / multi-intent,Retention / Subscriptions,Route by the explicit immediate action requested; Retention / Subscriptions owns the next action.
+SUP-0029,The watch screen was scratched inside the sealed box.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0030,Hello support team — Please stop my membership from renewing next month.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0031,"My bank shows a completed debit, but your checkout still says payment failed.",Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0032,I am not asking for a refund; I need help with an import error.,Technical Issue,Boundary / multi-intent,Technical Support,Route by the explicit immediate action requested; Technical Support owns the next action.
+SUP-0033,Hello support team — I reset my password but the sign-in link keeps expiring.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0034,The product page loads on desktop but not on my phone.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0035,"Hello support team — Your team approved my refund, but nothing has reached my payment account.",Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0036,The fan makes a grinding noise when switched on.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0037,"I need my receipt, not a return label, for the item delivered Monday.",Billing & Payment,Boundary / multi-intent,Billing Operations,Route by the explicit immediate action requested; Billing Operations owns the next action.
+SUP-0038,I think someone signed in from another location; secure my account.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0039,The mobile app freezes when I open order history.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0040,The export button returns an unexpected error message.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0041,The new coffee maker leaks from the base every time it runs.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0042,Hello support team — I cannot accept the email verification invitation.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0043,Please stop my membership from renewing next month.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0044,Our finance team needs the corrected billing name on the invoice.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0045,"Hello support team — Your refund was marked complete, but the original card has not received it.",Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0046,Hello support team — The seal on the food container will not close properly.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0047,Hello support team — How do I pause our subscription while the office is closed?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0048,Where can I downgrade from the annual plan to monthly?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0049,I have a pending authorization that has not dropped off after the failed checkout.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0050,"The app says refunded, but the money is missing from the original card.",Refund & Return,Boundary / multi-intent,Returns Desk,Route by the explicit immediate action requested; Returns Desk owns the next action.
+SUP-0051,Hello support team — Can you explain why the monthly invoice is higher than the agreed plan?,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0052,The parcel arrived at the city hub but has not been delivered.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0053,Hello support team — The desk frame is bent and cannot be assembled.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0054,"I received the parcel, but the invoice contains an extra delivery charge. Please correct the invoice.",Billing & Payment,Boundary / multi-intent,Billing Operations,Route by the explicit immediate action requested; Billing Operations owns the next action.
+SUP-0055,Hello support team — The login screen keeps saying my account does not exist.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0056,Hello support team — The two-factor authentication app is no longer available on my phone.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0057,The receipt lists a service fee that was not shown when I placed the order.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0058,Hello support team — Can I return the unopened blender after changing my mind?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0059,"I can sign in normally, but the reports page still crashes.",Technical Issue,Boundary / multi-intent,Technical Support,Route by the explicit immediate action requested; Technical Support owns the next action.
+SUP-0060,Are your products manufactured locally or imported?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0061,"I used a voucher, yet the full amount was taken from my card.",Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0062,My package is going to the wrong distribution center.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0063,I was sent a return label that expired before I could use it.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0064,Our team needs to remove three paid seats from next month’s plan.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0065,The app is loading correctly; my credentials are being rejected.,Account Access,Boundary / multi-intent,Identity Support,Route by the explicit immediate action requested; Identity Support owns the next action.
+SUP-0066,I need to remove an old user who still has access to our team account.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0067,Can you confirm the expected delivery day for order 48271?,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0068,This chair arrived with two cracked legs.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0069,"I cancelled the order, but the refund has not been initiated.",Refund & Return,Boundary / multi-intent,Returns Desk,Route by the explicit immediate action requested; Returns Desk owns the next action.
+SUP-0070,The two-factor authentication app is no longer available on my phone.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0071,Hello support team — The battery in the lamp only lasts ten minutes despite a full charge.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0072,Hello support team — I cannot attach a file to the support form; it always times out.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0073,Hello support team — I need to remove an old user who still has access to our team account.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0074,Why did the package return to sender without a delivery attempt?,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0075,Hello support team — The speaker produces static even with no cable connected.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0076,Hello support team — The mobile app freezes when I open order history.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0077,I have not placed an order; can you share your product dimensions?,General Inquiry,Boundary / multi-intent,Customer Information,Route by the explicit immediate action requested; Customer Information owns the next action.
+SUP-0078,Hello support team — The cancellation button is missing from my plan settings.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0079,Hello support team — The promised delivery window has passed without any update.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0080,The security alert says an unknown user gained access to my account.,Account Access,Boundary / multi-intent,Identity Support,Route by the explicit immediate action requested; Identity Support owns the next action.
+SUP-0081,"I cancelled the trial, but the dashboard still shows an active subscription.",Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0082,Hello support team — The zipper on the bag separated on its first use.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0083,"Your refund was marked complete, but the original card has not received it.",Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0084,"Your team approved my refund, but nothing has reached my payment account.",Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0085,Hello support team — The new coffee maker leaks from the base every time it runs.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0086,Hello support team — Please turn off auto-renewal but keep access through the paid period.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0087,Hello support team — Our team needs to remove three paid seats from next month’s plan.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0088,Hello support team — Which payment methods do you accept at your physical store?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0089,Please cancel the store-credit refund and send it to the original payment method.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0090,What condition must the product be in to qualify for a return?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0091,Hello support team — Can you confirm the expected delivery day for order 48271?,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0092,The verification code goes to a phone number I no longer use.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0093,I cannot attach a file to the support form; it always times out.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0094,Hello support team — The delivery driver could not find our building; please provide new instructions.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0095,The password reset email never reaches my inbox.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0096,Hello support team — Are your products manufactured locally or imported?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0097,Where can I find the privacy policy for account data?,General Inquiry,Boundary / multi-intent,Customer Information,Route by the explicit immediate action requested; Customer Information owns the next action.
+SUP-0098,The delivery was late and I was charged for express shipping that I never selected.,Billing & Payment,Boundary / multi-intent,Billing Operations,Route by the explicit immediate action requested; Billing Operations owns the next action.
+SUP-0099,Hello support team — My package is going to the wrong distribution center.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0100,Hello support team — This chair arrived with two cracked legs.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0101,Where should I upload proof that I sent the package back?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0102,Hello support team — I want to reactivate my expired subscription without creating another account.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0103,Please turn off auto-renewal but keep access through the paid period.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0104,Can I buy a replacement strap separately?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0105,The payment was captured in dollars instead of the currency shown at checkout.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0106,Hello support team — Can you confirm my cancellation date and whether another renewal is due?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0107,Hello support team — I want the money back rather than a replacement for this damaged item.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0108,Hello support team — Please cancel the store-credit refund and send it to the original payment method.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0109,The app crashes whenever I try to upload an image.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0110,Hello support team — The export button returns an unexpected error message.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0111,Hello support team — The dashboard is blank after the latest update.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0112,I do not want the premium add-on on my next renewal.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0113,Hello support team — The shipment says out for delivery for three days now.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0114,"I would like to return the item, but first I need the email on my profile changed.",Account Access,Boundary / multi-intent,Identity Support,Route by the explicit immediate action requested; Identity Support owns the next action.
+SUP-0115,I want to know whether the broken latch is covered under warranty.,Product Defect,Boundary / multi-intent,Product Quality Team,Route by the explicit immediate action requested; Product Quality Team owns the next action.
+SUP-0116,Do you have a showroom where I can compare sofa fabrics?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0117,The save changes button spins and never confirms success.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0118,Hello support team — How long does an unopened item remain covered by the warranty?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0119,Can you explain the difference between standard and premium warranties?,General Inquiry,Boundary / multi-intent,Customer Information,Route by the explicit immediate action requested; Customer Information owns the next action.
+SUP-0120,Hello support team — I think someone signed in from another location; secure my account.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0121,Is there a warranty document available before purchase?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0122,"Before buying, can you explain what your return policy covers?",General Inquiry,Boundary / multi-intent,Customer Information,Route by the explicit immediate action requested; Customer Information owns the next action.
+SUP-0123,"The verification code never arrives, so I cannot finish updating my payment details.",Account Access,Boundary / multi-intent,Identity Support,Route by the explicit immediate action requested; Identity Support owns the next action.
+SUP-0124,I do not need tracking for the return parcel; I need confirmation of the reimbursement.,Refund & Return,Boundary / multi-intent,Returns Desk,Route by the explicit immediate action requested; Returns Desk owns the next action.
+SUP-0125,Hello support team — The search filter does not return matching items.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0126,"The invoice is overdue, but I cannot access the account to download it.",Account Access,Boundary / multi-intent,Identity Support,Route by the explicit immediate action requested; Identity Support owns the next action.
+SUP-0127,Hello support team — The receipt lists a service fee that was not shown when I placed the order.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0128,Hello support team — My account was disabled without an explanation; how do I appeal?,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0129,The CSV download contains headers but no records.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0130,Hello support team — I do not want the premium add-on on my next renewal.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0131,I received my monthly box; cancel all future boxes.,Subscription & Cancellation,Boundary / multi-intent,Retention / Subscriptions,Route by the explicit immediate action requested; Retention / Subscriptions owns the next action.
+SUP-0132,Hello support team — Can I buy a replacement strap separately?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0133,Hello support team — What happens to saved work after my subscription ends?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0134,I do not want a refund. I want the upcoming renewal stopped.,Subscription & Cancellation,Boundary / multi-intent,Retention / Subscriptions,Route by the explicit immediate action requested; Retention / Subscriptions owns the next action.
+SUP-0135,Hello support team — The kettle shuts off before the water heats.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0136,Can companies request a bulk-order quotation?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0137,The seal on the food container will not close properly.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0138,I returned the shoes last week and need to know when the refund will arrive.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0139,Hello support team — The gift card balance went to zero without a matching purchase.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0140,Hello support team — Do you ship to university accommodation addresses?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0141,I want to reactivate my expired subscription without creating another account.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0142,Can I return the unopened blender after changing my mind?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0143,The kettle shuts off before the water heats.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0144,Hello support team — The verification code goes to a phone number I no longer use.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0145,I am not reporting a delivery problem; I only want to know whether you ship abroad.,General Inquiry,Boundary / multi-intent,Customer Information,Route by the explicit immediate action requested; Customer Information owns the next action.
+SUP-0146,The monitor has a line of dead pixels across the screen.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0147,Hello support team — The warehouse says my return arrived; why is my refund still pending?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0148,Hello support team — My headphones arrived with a broken hinge.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0149,I reset my password but the sign-in link keeps expiring.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0150,The cancel subscription button does nothing when clicked.,Technical Issue,Boundary / multi-intent,Technical Support,Route by the explicit immediate action requested; Technical Support owns the next action.
+SUP-0151,"I received two boxes, but the tracking record shows a third one is still moving.",Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0152,Hello support team — Our finance team needs the corrected billing name on the invoice.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0153,Hello support team — The calendar integration stopped syncing yesterday.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0154,Hello support team — My account is locked even though I entered the correct password.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0155,The warehouse says my return arrived; why is my refund still pending?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0156,The desk frame is bent and cannot be assembled.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0157,I need the carrier name and tracking link for my replacement order.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0158,"The payment went through, but I have no shipping update at all.",Delivery & Tracking,Boundary / multi-intent,Logistics Support,Route by the explicit immediate action requested; Logistics Support owns the next action.
+SUP-0159,Hello support team — Will the next product release support additional languages?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0160,Hello support team — I need the carrier name and tracking link for my replacement order.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0161,The gift card balance went to zero without a matching purchase.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0162,Can you confirm my cancellation date and whether another renewal is due?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0163,Hello support team — Where can I read your data retention policy?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0164,I need a replacement because the heating element does not switch on.,Product Defect,Boundary / multi-intent,Product Quality Team,Route by the explicit immediate action requested; Product Quality Team owns the next action.
+SUP-0165,"Please remove the add-on from future subscription periods, not my past invoice.",Subscription & Cancellation,Boundary / multi-intent,Retention / Subscriptions,Route by the explicit immediate action requested; Retention / Subscriptions owns the next action.
+SUP-0166,The promised delivery window has passed without any update.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0167,Hello support team — Please send a breakdown of the extra charge on my statement.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0168,"Hello support team — I cancelled the trial, but the dashboard still shows an active subscription.",Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0169,Please send a breakdown of the extra charge on my statement.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0170,The calendar integration stopped syncing yesterday.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0171,The delivery driver could not find our building; please provide new instructions.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0172,The zipper on the bag separated on its first use.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0173,"Payment was successful, but the app throws an error when I try to view the invoice.",Technical Issue,Boundary / multi-intent,Technical Support,Route by the explicit immediate action requested; Technical Support owns the next action.
+SUP-0174,Hello support team — The monitor has a line of dead pixels across the screen.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0175,Hello support team — The app crashes whenever I try to upload an image.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0176,Will the next product release support additional languages?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0177,Which payment methods do you accept at your physical store?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0178,Hello support team — I have a pending authorization that has not dropped off after the failed checkout.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0179,Hello support team — The password reset email never reaches my inbox.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0180,Where can I read your data retention policy?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0181,The tracking page has not updated since the parcel left the depot.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0182,The tracking website has an error; please provide the correct shipment status.,Delivery & Tracking,Boundary / multi-intent,Logistics Support,Route by the explicit immediate action requested; Logistics Support owns the next action.
+SUP-0183,I cannot download a tax invoice for yesterday’s purchase.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0184,Hello support team — The payment was captured in dollars instead of the currency shown at checkout.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0185,I was double-billed for an item that I returned; please process the already approved refund.,Refund & Return,Boundary / multi-intent,Returns Desk,Route by the explicit immediate action requested; Returns Desk owns the next action.
+SUP-0186,Hello support team — What time does the customer service team open on Saturdays?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0187,The item is fine; it was sent to the wrong address.,Delivery & Tracking,Boundary / multi-intent,Logistics Support,Route by the explicit immediate action requested; Logistics Support owns the next action.
+SUP-0188,"Hello support team — I received two boxes, but the tracking record shows a third one is still moving.",Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0189,The website keeps looping when I submit the checkout form.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0190,The speaker produces static even with no cable connected.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0191,"The courier marked this delivered, but nothing is at my door.",Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0192,"Hello support team — I paid through bank transfer, but the balance still shows outstanding.",Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0193,"I thought it was a software setting, but the physical power button has fallen off.",Product Defect,Boundary / multi-intent,Product Quality Team,Route by the explicit immediate action requested; Product Quality Team owns the next action.
+SUP-0194,The order tracking was accurate; unfortunately the item itself is damaged.,Product Defect,Boundary / multi-intent,Product Quality Team,Route by the explicit immediate action requested; Product Quality Team owns the next action.
+SUP-0195,Hello support team — The website shows the wrong totals after I apply a filter.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0196,"I may cancel later, but first why was I billed for two seats?",Billing & Payment,Boundary / multi-intent,Billing Operations,Route by the explicit immediate action requested; Billing Operations owns the next action.
+SUP-0197,Hello support team — The watch screen was scratched inside the sealed box.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0198,I upgraded by mistake and need to switch back to basic.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0199,Please help me recover access after changing devices.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0200,"Hello support team — I used a voucher, yet the full amount was taken from my card.",Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0201,How do I pause our subscription while the office is closed?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0202,Hello support team — Is there a warranty document available before purchase?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0203,Hello support team — What condition must the product be in to qualify for a return?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0204,The shipment says out for delivery for three days now.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0205,Can you tell me when the replacement for my damaged kettle will arrive?,Delivery & Tracking,Boundary / multi-intent,Logistics Support,Route by the explicit immediate action requested; Logistics Support owns the next action.
+SUP-0206,"I plan to return this, but first I need the courier to deliver it.",Delivery & Tracking,Boundary / multi-intent,Logistics Support,Route by the explicit immediate action requested; Logistics Support owns the next action.
+SUP-0207,Are gift cards available for corporate customers?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0208,My account was disabled without an explanation; how do I appeal?,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0209,Hello support team — The jacket does not fit; what is the process for sending it back?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0210,"The package came on time, but the tablet has a cracked screen out of the box.",Product Defect,Boundary / multi-intent,Product Quality Team,Route by the explicit immediate action requested; Product Quality Team owns the next action.
+SUP-0211,"My order is fine, but search filters are not working after the update.",Technical Issue,Boundary / multi-intent,Technical Support,Route by the explicit immediate action requested; Technical Support owns the next action.
+SUP-0212,The battery in the lamp only lasts ten minutes despite a full charge.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0213,"I paid through bank transfer, but the balance still shows outstanding.",Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0214,Hello support team — Can I change the shipping address before the parcel is dispatched?,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0215,My account is locked even though I entered the correct password.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0216,Hello support team — Where can I downgrade from the annual plan to monthly?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0217,Hello support team — Where should I upload proof that I sent the package back?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0218,Hello support team — The website keeps looping when I submit the checkout form.,Technical Issue,Standard,Technical Support,Primary action requested: Technical Support.
+SUP-0219,Hello support team — I cannot update the email address linked to my profile.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0220,I paid in full and got a chair with a snapped support bar.,Product Defect,Boundary / multi-intent,Product Quality Team,Route by the explicit immediate action requested; Product Quality Team owns the next action.
+SUP-0221,Hello support team — I upgraded by mistake and need to switch back to basic.,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0222,Can I change the shipping address before the parcel is dispatched?,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0223,"The parcel arrived today, but I no longer need it and want to return it.",Refund & Return,Boundary / multi-intent,Returns Desk,Route by the explicit immediate action requested; Returns Desk owns the next action.
+SUP-0224,Hello support team — The fan makes a grinding noise when switched on.,Product Defect,Standard,Product Quality Team,Primary action requested: Product Quality Team.
+SUP-0225,"Hello support team — My bank shows a completed debit, but your checkout still says payment failed.",Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0226,I accidentally returned the wrong size; can you update my return request?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0227,Hello support team — The card was charged twice for the same order; can you reverse one payment?,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0228,Hello support team — The tracking page has not updated since the parcel left the depot.,Delivery & Tracking,Standard,Logistics Support,Primary action requested: Logistics Support.
+SUP-0229,Hello support team — Can companies request a bulk-order quotation?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0230,The jacket does not fit; what is the process for sending it back?,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0231,What happens to saved work after my subscription ends?,Subscription & Cancellation,Standard,Retention / Subscriptions,Primary action requested: Retention / Subscriptions.
+SUP-0232,Hello support team — I cannot download a tax invoice for yesterday’s purchase.,Billing & Payment,Standard,Billing Operations,Primary action requested: Billing Operations.
+SUP-0233,How does your team calculate subscription pricing for nonprofits?,General Inquiry,Boundary / multi-intent,Customer Information,Route by the explicit immediate action requested; Customer Information owns the next action.
+SUP-0234,Hello support team — Do you have a showroom where I can compare sofa fabrics?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0235,Hello support team — Please help me recover access after changing devices.,Account Access,Standard,Identity Support,Primary action requested: Identity Support.
+SUP-0236,The app works again; I still need the duplicate card debit removed.,Billing & Payment,Boundary / multi-intent,Billing Operations,Route by the explicit immediate action requested; Billing Operations owns the next action.
+SUP-0237,How long does an unopened item remain covered by the warranty?,General Inquiry,Standard,Customer Information,Primary action requested: Customer Information.
+SUP-0238,Hello support team — I was sent a return label that expired before I could use it.,Refund & Return,Standard,Returns Desk,Primary action requested: Returns Desk.
+SUP-0239,The shipping dashboard is broken even though the tracking link works.,Technical Issue,Boundary / multi-intent,Technical Support,Route by the explicit immediate action requested; Technical Support owns the next action.
+SUP-0240,The price is fine; I simply want to end the membership.,Subscription & Cancellation,Boundary / multi-intent,Retention / Subscriptions,Route by the explicit immediate action requested; Retention / Subscriptions owns the next action.

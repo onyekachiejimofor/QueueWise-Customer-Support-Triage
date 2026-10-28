@@ -1,0 +1,1202 @@
+[
+  {
+    "task_id": "SUP-0001",
+    "message": "The card was charged twice for the same order; can you reverse one payment?",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0002",
+    "message": "Hello support team — Are gift cards available for corporate customers?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0003",
+    "message": "Hello support team — I accidentally returned the wrong size; can you update my return request?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0004",
+    "message": "Hello support team — The courier marked this delivered, but nothing is at my door.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0005",
+    "message": "Hello support team — Why did the package return to sender without a delivery attempt?",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0006",
+    "message": "I bought the subscription box last month and this month’s parcel is late.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0007",
+    "message": "The cancellation button is missing from my plan settings.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0008",
+    "message": "Hello support team — The CSV download contains headers but no records.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0009",
+    "message": "Hello support team — I returned the shoes last week and need to know when the refund will arrive.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0010",
+    "message": "The headphones are defective; I am not asking for troubleshooting, I want a refund.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0011",
+    "message": "The search filter does not return matching items.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0012",
+    "message": "What time does the customer service team open on Saturdays?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0013",
+    "message": "The dashboard is blank after the latest update.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0014",
+    "message": "Your refund page is fine; I am contacting you about an unfamiliar charge.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0015",
+    "message": "I cannot accept the email verification invitation.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0016",
+    "message": "Do you ship to university accommodation addresses?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0017",
+    "message": "I cannot cancel because I am locked out of the account; help me sign in first.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0018",
+    "message": "Hello support team — The product page loads on desktop but not on my phone.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0019",
+    "message": "I cannot update the email address linked to my profile.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0020",
+    "message": "Can you explain why the monthly invoice is higher than the agreed plan?",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0021",
+    "message": "My headphones arrived with a broken hinge.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0022",
+    "message": "The login screen keeps saying my account does not exist.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0023",
+    "message": "Login works now. Please turn off automatic renewal for my plan.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0024",
+    "message": "The website shows the wrong totals after I apply a filter.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0025",
+    "message": "I want the money back rather than a replacement for this damaged item.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0026",
+    "message": "Hello support team — The parcel arrived at the city hub but has not been delivered.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0027",
+    "message": "Hello support team — The save changes button spins and never confirms success.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0028",
+    "message": "Our office has closed and we need to end our five-seat subscription.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0029",
+    "message": "The watch screen was scratched inside the sealed box.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0030",
+    "message": "Hello support team — Please stop my membership from renewing next month.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0031",
+    "message": "My bank shows a completed debit, but your checkout still says payment failed.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0032",
+    "message": "I am not asking for a refund; I need help with an import error.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0033",
+    "message": "Hello support team — I reset my password but the sign-in link keeps expiring.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0034",
+    "message": "The product page loads on desktop but not on my phone.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0035",
+    "message": "Hello support team — Your team approved my refund, but nothing has reached my payment account.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0036",
+    "message": "The fan makes a grinding noise when switched on.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0037",
+    "message": "I need my receipt, not a return label, for the item delivered Monday.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0038",
+    "message": "I think someone signed in from another location; secure my account.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0039",
+    "message": "The mobile app freezes when I open order history.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0040",
+    "message": "The export button returns an unexpected error message.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0041",
+    "message": "The new coffee maker leaks from the base every time it runs.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0042",
+    "message": "Hello support team — I cannot accept the email verification invitation.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0043",
+    "message": "Please stop my membership from renewing next month.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0044",
+    "message": "Our finance team needs the corrected billing name on the invoice.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0045",
+    "message": "Hello support team — Your refund was marked complete, but the original card has not received it.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0046",
+    "message": "Hello support team — The seal on the food container will not close properly.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0047",
+    "message": "Hello support team — How do I pause our subscription while the office is closed?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0048",
+    "message": "Where can I downgrade from the annual plan to monthly?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0049",
+    "message": "I have a pending authorization that has not dropped off after the failed checkout.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0050",
+    "message": "The app says refunded, but the money is missing from the original card.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0051",
+    "message": "Hello support team — Can you explain why the monthly invoice is higher than the agreed plan?",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0052",
+    "message": "The parcel arrived at the city hub but has not been delivered.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0053",
+    "message": "Hello support team — The desk frame is bent and cannot be assembled.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0054",
+    "message": "I received the parcel, but the invoice contains an extra delivery charge. Please correct the invoice.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0055",
+    "message": "Hello support team — The login screen keeps saying my account does not exist.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0056",
+    "message": "Hello support team — The two-factor authentication app is no longer available on my phone.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0057",
+    "message": "The receipt lists a service fee that was not shown when I placed the order.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0058",
+    "message": "Hello support team — Can I return the unopened blender after changing my mind?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0059",
+    "message": "I can sign in normally, but the reports page still crashes.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0060",
+    "message": "Are your products manufactured locally or imported?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0061",
+    "message": "I used a voucher, yet the full amount was taken from my card.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0062",
+    "message": "My package is going to the wrong distribution center.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0063",
+    "message": "I was sent a return label that expired before I could use it.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0064",
+    "message": "Our team needs to remove three paid seats from next month’s plan.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0065",
+    "message": "The app is loading correctly; my credentials are being rejected.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0066",
+    "message": "I need to remove an old user who still has access to our team account.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0067",
+    "message": "Can you confirm the expected delivery day for order 48271?",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0068",
+    "message": "This chair arrived with two cracked legs.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0069",
+    "message": "I cancelled the order, but the refund has not been initiated.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0070",
+    "message": "The two-factor authentication app is no longer available on my phone.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0071",
+    "message": "Hello support team — The battery in the lamp only lasts ten minutes despite a full charge.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0072",
+    "message": "Hello support team — I cannot attach a file to the support form; it always times out.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0073",
+    "message": "Hello support team — I need to remove an old user who still has access to our team account.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0074",
+    "message": "Why did the package return to sender without a delivery attempt?",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0075",
+    "message": "Hello support team — The speaker produces static even with no cable connected.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0076",
+    "message": "Hello support team — The mobile app freezes when I open order history.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0077",
+    "message": "I have not placed an order; can you share your product dimensions?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0078",
+    "message": "Hello support team — The cancellation button is missing from my plan settings.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0079",
+    "message": "Hello support team — The promised delivery window has passed without any update.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0080",
+    "message": "The security alert says an unknown user gained access to my account.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0081",
+    "message": "I cancelled the trial, but the dashboard still shows an active subscription.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0082",
+    "message": "Hello support team — The zipper on the bag separated on its first use.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0083",
+    "message": "Your refund was marked complete, but the original card has not received it.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0084",
+    "message": "Your team approved my refund, but nothing has reached my payment account.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0085",
+    "message": "Hello support team — The new coffee maker leaks from the base every time it runs.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0086",
+    "message": "Hello support team — Please turn off auto-renewal but keep access through the paid period.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0087",
+    "message": "Hello support team — Our team needs to remove three paid seats from next month’s plan.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0088",
+    "message": "Hello support team — Which payment methods do you accept at your physical store?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0089",
+    "message": "Please cancel the store-credit refund and send it to the original payment method.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0090",
+    "message": "What condition must the product be in to qualify for a return?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0091",
+    "message": "Hello support team — Can you confirm the expected delivery day for order 48271?",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0092",
+    "message": "The verification code goes to a phone number I no longer use.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0093",
+    "message": "I cannot attach a file to the support form; it always times out.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0094",
+    "message": "Hello support team — The delivery driver could not find our building; please provide new instructions.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0095",
+    "message": "The password reset email never reaches my inbox.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0096",
+    "message": "Hello support team — Are your products manufactured locally or imported?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0097",
+    "message": "Where can I find the privacy policy for account data?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0098",
+    "message": "The delivery was late and I was charged for express shipping that I never selected.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0099",
+    "message": "Hello support team — My package is going to the wrong distribution center.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0100",
+    "message": "Hello support team — This chair arrived with two cracked legs.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0101",
+    "message": "Where should I upload proof that I sent the package back?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0102",
+    "message": "Hello support team — I want to reactivate my expired subscription without creating another account.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0103",
+    "message": "Please turn off auto-renewal but keep access through the paid period.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0104",
+    "message": "Can I buy a replacement strap separately?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0105",
+    "message": "The payment was captured in dollars instead of the currency shown at checkout.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0106",
+    "message": "Hello support team — Can you confirm my cancellation date and whether another renewal is due?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0107",
+    "message": "Hello support team — I want the money back rather than a replacement for this damaged item.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0108",
+    "message": "Hello support team — Please cancel the store-credit refund and send it to the original payment method.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0109",
+    "message": "The app crashes whenever I try to upload an image.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0110",
+    "message": "Hello support team — The export button returns an unexpected error message.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0111",
+    "message": "Hello support team — The dashboard is blank after the latest update.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0112",
+    "message": "I do not want the premium add-on on my next renewal.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0113",
+    "message": "Hello support team — The shipment says out for delivery for three days now.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0114",
+    "message": "I would like to return the item, but first I need the email on my profile changed.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0115",
+    "message": "I want to know whether the broken latch is covered under warranty.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0116",
+    "message": "Do you have a showroom where I can compare sofa fabrics?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0117",
+    "message": "The save changes button spins and never confirms success.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0118",
+    "message": "Hello support team — How long does an unopened item remain covered by the warranty?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0119",
+    "message": "Can you explain the difference between standard and premium warranties?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0120",
+    "message": "Hello support team — I think someone signed in from another location; secure my account.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0121",
+    "message": "Is there a warranty document available before purchase?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0122",
+    "message": "Before buying, can you explain what your return policy covers?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0123",
+    "message": "The verification code never arrives, so I cannot finish updating my payment details.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0124",
+    "message": "I do not need tracking for the return parcel; I need confirmation of the reimbursement.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0125",
+    "message": "Hello support team — The search filter does not return matching items.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0126",
+    "message": "The invoice is overdue, but I cannot access the account to download it.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0127",
+    "message": "Hello support team — The receipt lists a service fee that was not shown when I placed the order.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0128",
+    "message": "Hello support team — My account was disabled without an explanation; how do I appeal?",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0129",
+    "message": "The CSV download contains headers but no records.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0130",
+    "message": "Hello support team — I do not want the premium add-on on my next renewal.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0131",
+    "message": "I received my monthly box; cancel all future boxes.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0132",
+    "message": "Hello support team — Can I buy a replacement strap separately?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0133",
+    "message": "Hello support team — What happens to saved work after my subscription ends?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0134",
+    "message": "I do not want a refund. I want the upcoming renewal stopped.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0135",
+    "message": "Hello support team — The kettle shuts off before the water heats.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0136",
+    "message": "Can companies request a bulk-order quotation?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0137",
+    "message": "The seal on the food container will not close properly.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0138",
+    "message": "I returned the shoes last week and need to know when the refund will arrive.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0139",
+    "message": "Hello support team — The gift card balance went to zero without a matching purchase.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0140",
+    "message": "Hello support team — Do you ship to university accommodation addresses?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0141",
+    "message": "I want to reactivate my expired subscription without creating another account.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0142",
+    "message": "Can I return the unopened blender after changing my mind?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0143",
+    "message": "The kettle shuts off before the water heats.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0144",
+    "message": "Hello support team — The verification code goes to a phone number I no longer use.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0145",
+    "message": "I am not reporting a delivery problem; I only want to know whether you ship abroad.",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0146",
+    "message": "The monitor has a line of dead pixels across the screen.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0147",
+    "message": "Hello support team — The warehouse says my return arrived; why is my refund still pending?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0148",
+    "message": "Hello support team — My headphones arrived with a broken hinge.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0149",
+    "message": "I reset my password but the sign-in link keeps expiring.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0150",
+    "message": "The cancel subscription button does nothing when clicked.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0151",
+    "message": "I received two boxes, but the tracking record shows a third one is still moving.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0152",
+    "message": "Hello support team — Our finance team needs the corrected billing name on the invoice.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0153",
+    "message": "Hello support team — The calendar integration stopped syncing yesterday.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0154",
+    "message": "Hello support team — My account is locked even though I entered the correct password.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0155",
+    "message": "The warehouse says my return arrived; why is my refund still pending?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0156",
+    "message": "The desk frame is bent and cannot be assembled.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0157",
+    "message": "I need the carrier name and tracking link for my replacement order.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0158",
+    "message": "The payment went through, but I have no shipping update at all.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0159",
+    "message": "Hello support team — Will the next product release support additional languages?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0160",
+    "message": "Hello support team — I need the carrier name and tracking link for my replacement order.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0161",
+    "message": "The gift card balance went to zero without a matching purchase.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0162",
+    "message": "Can you confirm my cancellation date and whether another renewal is due?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0163",
+    "message": "Hello support team — Where can I read your data retention policy?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0164",
+    "message": "I need a replacement because the heating element does not switch on.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0165",
+    "message": "Please remove the add-on from future subscription periods, not my past invoice.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0166",
+    "message": "The promised delivery window has passed without any update.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0167",
+    "message": "Hello support team — Please send a breakdown of the extra charge on my statement.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0168",
+    "message": "Hello support team — I cancelled the trial, but the dashboard still shows an active subscription.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0169",
+    "message": "Please send a breakdown of the extra charge on my statement.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0170",
+    "message": "The calendar integration stopped syncing yesterday.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0171",
+    "message": "The delivery driver could not find our building; please provide new instructions.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0172",
+    "message": "The zipper on the bag separated on its first use.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0173",
+    "message": "Payment was successful, but the app throws an error when I try to view the invoice.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0174",
+    "message": "Hello support team — The monitor has a line of dead pixels across the screen.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0175",
+    "message": "Hello support team — The app crashes whenever I try to upload an image.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0176",
+    "message": "Will the next product release support additional languages?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0177",
+    "message": "Which payment methods do you accept at your physical store?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0178",
+    "message": "Hello support team — I have a pending authorization that has not dropped off after the failed checkout.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0179",
+    "message": "Hello support team — The password reset email never reaches my inbox.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0180",
+    "message": "Where can I read your data retention policy?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0181",
+    "message": "The tracking page has not updated since the parcel left the depot.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0182",
+    "message": "The tracking website has an error; please provide the correct shipment status.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0183",
+    "message": "I cannot download a tax invoice for yesterday’s purchase.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0184",
+    "message": "Hello support team — The payment was captured in dollars instead of the currency shown at checkout.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0185",
+    "message": "I was double-billed for an item that I returned; please process the already approved refund.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0186",
+    "message": "Hello support team — What time does the customer service team open on Saturdays?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0187",
+    "message": "The item is fine; it was sent to the wrong address.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0188",
+    "message": "Hello support team — I received two boxes, but the tracking record shows a third one is still moving.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0189",
+    "message": "The website keeps looping when I submit the checkout form.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0190",
+    "message": "The speaker produces static even with no cable connected.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0191",
+    "message": "The courier marked this delivered, but nothing is at my door.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0192",
+    "message": "Hello support team — I paid through bank transfer, but the balance still shows outstanding.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0193",
+    "message": "I thought it was a software setting, but the physical power button has fallen off.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0194",
+    "message": "The order tracking was accurate; unfortunately the item itself is damaged.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0195",
+    "message": "Hello support team — The website shows the wrong totals after I apply a filter.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0196",
+    "message": "I may cancel later, but first why was I billed for two seats?",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0197",
+    "message": "Hello support team — The watch screen was scratched inside the sealed box.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0198",
+    "message": "I upgraded by mistake and need to switch back to basic.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0199",
+    "message": "Please help me recover access after changing devices.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0200",
+    "message": "Hello support team — I used a voucher, yet the full amount was taken from my card.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0201",
+    "message": "How do I pause our subscription while the office is closed?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0202",
+    "message": "Hello support team — Is there a warranty document available before purchase?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0203",
+    "message": "Hello support team — What condition must the product be in to qualify for a return?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0204",
+    "message": "The shipment says out for delivery for three days now.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0205",
+    "message": "Can you tell me when the replacement for my damaged kettle will arrive?",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0206",
+    "message": "I plan to return this, but first I need the courier to deliver it.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0207",
+    "message": "Are gift cards available for corporate customers?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0208",
+    "message": "My account was disabled without an explanation; how do I appeal?",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0209",
+    "message": "Hello support team — The jacket does not fit; what is the process for sending it back?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0210",
+    "message": "The package came on time, but the tablet has a cracked screen out of the box.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0211",
+    "message": "My order is fine, but search filters are not working after the update.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0212",
+    "message": "The battery in the lamp only lasts ten minutes despite a full charge.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0213",
+    "message": "I paid through bank transfer, but the balance still shows outstanding.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0214",
+    "message": "Hello support team — Can I change the shipping address before the parcel is dispatched?",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0215",
+    "message": "My account is locked even though I entered the correct password.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0216",
+    "message": "Hello support team — Where can I downgrade from the annual plan to monthly?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0217",
+    "message": "Hello support team — Where should I upload proof that I sent the package back?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0218",
+    "message": "Hello support team — The website keeps looping when I submit the checkout form.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0219",
+    "message": "Hello support team — I cannot update the email address linked to my profile.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0220",
+    "message": "I paid in full and got a chair with a snapped support bar.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0221",
+    "message": "Hello support team — I upgraded by mistake and need to switch back to basic.",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0222",
+    "message": "Can I change the shipping address before the parcel is dispatched?",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0223",
+    "message": "The parcel arrived today, but I no longer need it and want to return it.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0224",
+    "message": "Hello support team — The fan makes a grinding noise when switched on.",
+    "selected_label": "Product Defect"
+  },
+  {
+    "task_id": "SUP-0225",
+    "message": "Hello support team — My bank shows a completed debit, but your checkout still says payment failed.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0226",
+    "message": "I accidentally returned the wrong size; can you update my return request?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0227",
+    "message": "Hello support team — The card was charged twice for the same order; can you reverse one payment?",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0228",
+    "message": "Hello support team — The tracking page has not updated since the parcel left the depot.",
+    "selected_label": "Delivery & Tracking"
+  },
+  {
+    "task_id": "SUP-0229",
+    "message": "Hello support team — Can companies request a bulk-order quotation?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0230",
+    "message": "The jacket does not fit; what is the process for sending it back?",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0231",
+    "message": "What happens to saved work after my subscription ends?",
+    "selected_label": "Subscription & Cancellation"
+  },
+  {
+    "task_id": "SUP-0232",
+    "message": "Hello support team — I cannot download a tax invoice for yesterday’s purchase.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0233",
+    "message": "How does your team calculate subscription pricing for nonprofits?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0234",
+    "message": "Hello support team — Do you have a showroom where I can compare sofa fabrics?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0235",
+    "message": "Hello support team — Please help me recover access after changing devices.",
+    "selected_label": "Account Access"
+  },
+  {
+    "task_id": "SUP-0236",
+    "message": "The app works again; I still need the duplicate card debit removed.",
+    "selected_label": "Billing & Payment"
+  },
+  {
+    "task_id": "SUP-0237",
+    "message": "How long does an unopened item remain covered by the warranty?",
+    "selected_label": "General Inquiry"
+  },
+  {
+    "task_id": "SUP-0238",
+    "message": "Hello support team — I was sent a return label that expired before I could use it.",
+    "selected_label": "Refund & Return"
+  },
+  {
+    "task_id": "SUP-0239",
+    "message": "The shipping dashboard is broken even though the tracking link works.",
+    "selected_label": "Technical Issue"
+  },
+  {
+    "task_id": "SUP-0240",
+    "message": "The price is fine; I simply want to end the membership.",
+    "selected_label": "Subscription & Cancellation"
+  }
+]

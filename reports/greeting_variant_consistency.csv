@@ -1,0 +1,97 @@
+task_id_a,task_id_b,label_a,label_b,consistent
+SUP-0001,SUP-0227,Billing & Payment,Billing & Payment,Yes
+SUP-0002,SUP-0207,General Inquiry,General Inquiry,Yes
+SUP-0003,SUP-0226,Refund & Return,Refund & Return,Yes
+SUP-0004,SUP-0191,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0005,SUP-0074,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0007,SUP-0078,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0008,SUP-0129,Technical Issue,Technical Issue,Yes
+SUP-0009,SUP-0138,Refund & Return,Refund & Return,Yes
+SUP-0011,SUP-0125,Technical Issue,Technical Issue,Yes
+SUP-0012,SUP-0186,General Inquiry,General Inquiry,Yes
+SUP-0013,SUP-0111,Technical Issue,Technical Issue,Yes
+SUP-0015,SUP-0042,Account Access,Account Access,Yes
+SUP-0016,SUP-0140,General Inquiry,General Inquiry,Yes
+SUP-0018,SUP-0034,Technical Issue,Technical Issue,Yes
+SUP-0019,SUP-0219,Account Access,Account Access,Yes
+SUP-0020,SUP-0051,Billing & Payment,Billing & Payment,Yes
+SUP-0021,SUP-0148,Product Defect,Product Defect,Yes
+SUP-0022,SUP-0055,Account Access,Account Access,Yes
+SUP-0024,SUP-0195,Technical Issue,Technical Issue,Yes
+SUP-0025,SUP-0107,Refund & Return,Refund & Return,Yes
+SUP-0026,SUP-0052,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0027,SUP-0117,Technical Issue,Technical Issue,Yes
+SUP-0029,SUP-0197,Product Defect,Product Defect,Yes
+SUP-0030,SUP-0043,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0031,SUP-0225,Billing & Payment,Billing & Payment,Yes
+SUP-0033,SUP-0149,Account Access,Account Access,Yes
+SUP-0035,SUP-0084,Refund & Return,Refund & Return,Yes
+SUP-0036,SUP-0224,Product Defect,Product Defect,Yes
+SUP-0038,SUP-0120,Account Access,Account Access,Yes
+SUP-0039,SUP-0076,Technical Issue,Technical Issue,Yes
+SUP-0040,SUP-0110,Technical Issue,Technical Issue,Yes
+SUP-0041,SUP-0085,Product Defect,Product Defect,Yes
+SUP-0044,SUP-0152,Billing & Payment,Billing & Payment,Yes
+SUP-0045,SUP-0083,Refund & Return,Refund & Return,Yes
+SUP-0046,SUP-0137,Product Defect,Product Defect,Yes
+SUP-0047,SUP-0201,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0048,SUP-0216,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0049,SUP-0178,Billing & Payment,Billing & Payment,Yes
+SUP-0053,SUP-0156,Product Defect,Product Defect,Yes
+SUP-0056,SUP-0070,Account Access,Account Access,Yes
+SUP-0057,SUP-0127,Billing & Payment,Billing & Payment,Yes
+SUP-0058,SUP-0142,Refund & Return,Refund & Return,Yes
+SUP-0060,SUP-0096,General Inquiry,General Inquiry,Yes
+SUP-0061,SUP-0200,Billing & Payment,Billing & Payment,Yes
+SUP-0062,SUP-0099,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0063,SUP-0238,Refund & Return,Refund & Return,Yes
+SUP-0064,SUP-0087,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0066,SUP-0073,Account Access,Account Access,Yes
+SUP-0067,SUP-0091,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0068,SUP-0100,Product Defect,Product Defect,Yes
+SUP-0071,SUP-0212,Product Defect,Product Defect,Yes
+SUP-0072,SUP-0093,Technical Issue,Technical Issue,Yes
+SUP-0075,SUP-0190,Product Defect,Product Defect,Yes
+SUP-0079,SUP-0166,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0081,SUP-0168,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0082,SUP-0172,Product Defect,Product Defect,Yes
+SUP-0086,SUP-0103,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0088,SUP-0177,General Inquiry,General Inquiry,Yes
+SUP-0089,SUP-0108,Refund & Return,Refund & Return,Yes
+SUP-0090,SUP-0203,Refund & Return,Refund & Return,Yes
+SUP-0092,SUP-0144,Account Access,Account Access,Yes
+SUP-0094,SUP-0171,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0095,SUP-0179,Account Access,Account Access,Yes
+SUP-0101,SUP-0217,Refund & Return,Refund & Return,Yes
+SUP-0102,SUP-0141,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0104,SUP-0132,General Inquiry,General Inquiry,Yes
+SUP-0105,SUP-0184,Billing & Payment,Billing & Payment,Yes
+SUP-0106,SUP-0162,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0109,SUP-0175,Technical Issue,Technical Issue,Yes
+SUP-0112,SUP-0130,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0113,SUP-0204,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0116,SUP-0234,General Inquiry,General Inquiry,Yes
+SUP-0118,SUP-0237,General Inquiry,General Inquiry,Yes
+SUP-0121,SUP-0202,General Inquiry,General Inquiry,Yes
+SUP-0128,SUP-0208,Account Access,Account Access,Yes
+SUP-0133,SUP-0231,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0135,SUP-0143,Product Defect,Product Defect,Yes
+SUP-0136,SUP-0229,General Inquiry,General Inquiry,Yes
+SUP-0139,SUP-0161,Billing & Payment,Billing & Payment,Yes
+SUP-0146,SUP-0174,Product Defect,Product Defect,Yes
+SUP-0147,SUP-0155,Refund & Return,Refund & Return,Yes
+SUP-0151,SUP-0188,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0153,SUP-0170,Technical Issue,Technical Issue,Yes
+SUP-0154,SUP-0215,Account Access,Account Access,Yes
+SUP-0157,SUP-0160,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0159,SUP-0176,General Inquiry,General Inquiry,Yes
+SUP-0163,SUP-0180,General Inquiry,General Inquiry,Yes
+SUP-0167,SUP-0169,Billing & Payment,Billing & Payment,Yes
+SUP-0181,SUP-0228,Delivery & Tracking,Delivery & Tracking,Yes
+SUP-0183,SUP-0232,Billing & Payment,Billing & Payment,Yes
+SUP-0189,SUP-0218,Technical Issue,Technical Issue,Yes
+SUP-0192,SUP-0213,Billing & Payment,Billing & Payment,Yes
+SUP-0198,SUP-0221,Subscription & Cancellation,Subscription & Cancellation,Yes
+SUP-0199,SUP-0235,Account Access,Account Access,Yes
+SUP-0209,SUP-0230,Refund & Return,Refund & Return,Yes
+SUP-0214,SUP-0222,Delivery & Tracking,Delivery & Tracking,Yes

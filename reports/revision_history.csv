@@ -1,0 +1,11 @@
+phase,task_id,message,previous_label,new_label,provisional_reference,change_context,independent_adjudication
+01 initial -> 02 first revision,SUP-0016,Do you ship to university accommodation addresses?,Delivery & Tracking,General Inquiry,General Inquiry,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0020,Can you explain why the monthly invoice is higher than the agreed plan?,Billing & Payment,General Inquiry,Billing & Payment,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0088,Hello support team — Which payment methods do you accept at your physical store?,Billing & Payment,General Inquiry,General Inquiry,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0122,"Before buying, can you explain what your return policy covers?",Refund & Return,General Inquiry,General Inquiry,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0140,Hello support team — Do you ship to university accommodation addresses?,Delivery & Tracking,General Inquiry,General Inquiry,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0145,I am not reporting a delivery problem; I only want to know whether you ship abroad.,Delivery & Tracking,General Inquiry,General Inquiry,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0150,The cancel subscription button does nothing when clicked.,Subscription & Cancellation,Technical Issue,Technical Issue,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0177,Which payment methods do you accept at your physical store?,Billing & Payment,General Inquiry,General Inquiry,First reference-guided review,Not performed
+01 initial -> 02 first revision,SUP-0233,How does your team calculate subscription pricing for nonprofits?,Subscription & Cancellation,General Inquiry,General Inquiry,First reference-guided review,Not performed
+02 first revision -> 03 final,SUP-0020,Can you explain why the monthly invoice is higher than the agreed plan?,General Inquiry,Billing & Payment,Billing & Payment,Correction of accidental invoice relabel,Not performed

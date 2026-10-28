@@ -1,0 +1,11 @@
+task_id,message,selected_label,competing_label,why,reference_difficulty,requires_stakeholder_policy
+SUP-0010,"The headphones are defective; I am not asking for troubleshooting, I want a refund.",Refund & Return,Product Defect,Explicit refund request overrides product-defect symptom,Boundary / multi-intent,No
+SUP-0017,I cannot cancel because I am locked out of the account; help me sign in first.,Account Access,Subscription & Cancellation,Immediate account-access blocker precedes cancellation request,Boundary / multi-intent,No
+SUP-0054,"I received the parcel, but the invoice contains an extra delivery charge. Please correct the invoice.",Billing & Payment,Delivery & Tracking,"Extra delivery line is an invoice dispute, not a delivery incident",Boundary / multi-intent,No
+SUP-0122,"Before buying, can you explain what your return policy covers?",General Inquiry,Refund & Return,Before-buying return-policy enquiry routed to general information under project rules,Boundary / multi-intent,Yes
+SUP-0150,The cancel subscription button does nothing when clicked.,Technical Issue,Subscription & Cancellation,Unresponsive cancellation control routed to technical team; policy-dependent,Boundary / multi-intent,Yes
+SUP-0182,The tracking website has an error; please provide the correct shipment status.,Delivery & Tracking,Technical Issue,"Despite tracking site error, requested action is shipment-status confirmation",Boundary / multi-intent,No
+SUP-0185,I was double-billed for an item that I returned; please process the already approved refund.,Refund & Return,Billing & Payment,Already-approved return refund outweighs mention of double billing,Boundary / multi-intent,No
+SUP-0233,How does your team calculate subscription pricing for nonprofits?,General Inquiry,Subscription & Cancellation,General subscription pricing-policy enquiry; policy-dependent,Boundary / multi-intent,Yes
+SUP-0239,The shipping dashboard is broken even though the tracking link works.,Technical Issue,Delivery & Tracking,Broken shipping dashboard is software malfunction; tracking link works,Boundary / multi-intent,No
+SUP-0237,How long does an unopened item remain covered by the warranty?,General Inquiry,Product Defect,Warranty duration enquiry with no defect reported,Standard,No
